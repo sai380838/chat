@@ -1,0 +1,14 @@
+{
+  "login": "Login",
+  "signup": "Sign Up",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "country": "Country",
+  "mobile": "Mobile",
+  "display_name": "Display Name",
+  "logout": "Logout",
+  "language": "Language",
+  "chat": "Chat",
+  "map": "Map"
+}
